@@ -8,7 +8,7 @@ body {
 }
 header {
     animation: fadeIn 1s ease-out; /* Ajout de l'animation de chargement*/
-    background-image : url(../images/restau.jpg);
+    background-image : url(restau.jpg);
     background-size: cover;
     background-position: center;
     height: 700px;
